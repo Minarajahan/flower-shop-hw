@@ -214,3 +214,157 @@
     font-size: 18px;
     font-weight: 500;
 }
+
+/* Latest Deal Section */
+
+.latest-deal-section{
+    padding: 100px;
+    background-image: url('image/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 80px 200px;
+    text-align: center;
+    
+    
+ }
+ .latest-heading{
+     font-size: 40px;
+     font-weight: 800;
+     margin-bottom: 10px;
+  
+ 
+ }
+ .latest-description{
+     margin-bottom: 10px;
+     font-size: 18px;
+     font-weight: 500;
+   
+ }
+ .latest-input{
+     padding: 15px 160px;
+     border: none;
+     border-radius: 3px;
+     background-color: white;
+     color: black;
+     margin-right: 10px;
+ }
+ 
+ /* Bonus part-order section */
+ .order-container{
+     display: flex;
+     justify-content: space-evenly;
+     
+ }
+ .information{
+     height: 500px;
+     width: 500px;
+     text-align: center;
+     background-color: rgb(119, 141, 134);
+     margin-top:50px;
+     margin-bottom: 50px;
+     border-radius: 5px;
+     box-shadow:3px 3px 3px rgb(15, 20, 20);
+ }
+ .information-heading{
+     font-size: 35px;
+     margin-bottom: 25px;
+     margin-top: 50px;
+ }
+ .input-1{
+     padding: 5px 26px;
+     border: none;
+     border-radius: 3px;
+     cursor: pointer;
+    margin-left: 60px;
+ }
+ .input-3{
+     padding: 3px 20px;
+     border: none;
+     border-radius: 3px;
+     margin-left: 32px;
+    
+ }
+ .input-2{
+     padding: 15px 60px;
+     border: none;
+     border-radius: 3px;
+     margin-left: 21px;
+     
+ }
+ .input-4{
+     padding: 15px 60px;
+     border: none;
+     border-radius: 3px;
+     margin-left: 10px;
+ }
+ .input-btn{
+     padding: 10px 20px;
+     border: none;
+     border-radius: 3px;
+     color: aliceblue;
+     background-color: rgb(40, 38, 38);
+     margin-top: 40px;
+     margin-left: 200px;
+ 
+ }
+ .order-description{
+     padding: 30px 50px;
+     border: none;
+     border-radius: 3px;
+     cursor: pointer;
+     margin: 30px;
+ }
+ .order-description-btn{
+     padding: 10px 20px;
+     border: none;
+     border-radius: 3px;
+     background-color: rgb(229, 84, 115);
+ }
+ .payment{
+ margin: 30px;
+ }
+ .payment-btn{
+     padding: 17px 25px;
+     color: white;
+     background-color:crimson;
+     border: none;
+     border-radius: 5px;
+     font-size: 25px;
+     margin-left: 15px;
+     
+ }
+ .payment-heading{
+     font-size: 40px;
+     color: red;
+     text-align: center;
+     margin-bottom: 20px;
+     margin-top: 30px;
+ }
+ .helpline-no{
+     font-size: 30px;
+     text-align: center;
+     margin-top: 30px;
+ }
+ .order-heading{
+     font-size: 45px;
+     color:  rgb(229, 84, 115);
+     text-align: center;
+ }
+ .info-para{
+     text-align: center;
+     color:black;
+     font-size: 22px;
+     font-weight: 800;
+     margin-top: 10px;
+ }
+ .payment-container{
+     height: 500px;
+     width: 500px;
+     text-align: center;
+     background-color: rgb(167, 176, 173);
+     margin-top: 50px;
+     margin-bottom: 50px;
+     border-radius: 5px;
+     box-shadow:3px 3px 3px rgb(15, 20, 20);
+ 
+ }
+ 
