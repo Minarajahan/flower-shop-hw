@@ -367,4 +367,23 @@
      box-shadow:3px 3px 3px rgb(15, 20, 20);
  
  }
- 
+ /* footer section */
+footer{
+    background-color: black;
+    color: white;
+   padding: 100px;
+   text-align: center;
+}
+.footer-heading{
+   margin-bottom: 15px;
+   font-size: 40px;
+    
+}
+.footer-text{
+    color: rgb(179, 176, 172);
+    margin-bottom: 25px;
+}
+.copyright{
+    color: rgb(110, 110, 110);
+}
+
