@@ -54,6 +54,7 @@
     border-radius: 8px;
     background: rgb(229, 84, 115);
     margin-top: 20px;
+    font-size: 18px;
 }
 
 .first-img {
@@ -184,6 +185,7 @@
     border: none;
     border-radius: 5px;
     margin-top: 30px;
+    font-size: 18px;
    
 }
 .hot-deal-img{
@@ -297,8 +299,9 @@
      margin-left: 10px;
  }
  .input-btn{
-     padding: 10px 20px;
+     padding: 10px 25px;
      border: none;
+     font-size: 18px;
      border-radius: 3px;
      color: aliceblue;
      background-color: rgb(40, 38, 38);
@@ -315,6 +318,8 @@
  }
  .order-description-btn{
      padding: 10px 20px;
+     font-size: 16px;
+     color: aliceblue;
      border: none;
      border-radius: 3px;
      background-color: rgb(229, 84, 115);
